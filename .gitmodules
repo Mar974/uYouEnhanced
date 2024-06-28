@@ -10,10 +10,6 @@
 	path = Tweaks/YouMute
 	url = https://github.com/PoomSmart/YouMute.git
 	branch = main
-[submodule "Tweaks/YouQuality"]
-	path = Tweaks/YouQuality
-	url = https://github.com/arichornloverALT/YouQuality.git
-	branch = main
 [submodule "Tweaks/YTVideoOverlay"]
 	path = Tweaks/YTVideoOverlay
 	url = https://github.com/arichornloverALT/YTVideoOverlay.git
